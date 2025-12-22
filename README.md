@@ -1,4 +1,4 @@
-# Bridging-Visual-Analysis-and-Text-Generation-A-Hierarchical-Multi-scale-Visual-Feature-Flow-Model
+# A-Hierarchical-Multi-scale-Visual-Feature-Flow-Model
 
 
 <!-- 1. Project Overview 部分：左侧绿色竖杠 -->
