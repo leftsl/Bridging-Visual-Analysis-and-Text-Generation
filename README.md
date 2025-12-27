@@ -26,14 +26,7 @@ Hello! Thank you for visiting this code repository.
             border-radius: 4px;
             margin-bottom: 8px;">
   <ul style="margin: 0; padding-left: 20px;">
-    <li>I fully intend to make the code open source to share research outcomes with the academic community. If you use/cite this code in your work, please cite our associated paper and uphold the open-source spirit by making your derived code publicly available—together, we can advance the development of the open-source community.</li>
-    <li>However, due to concerns about malicious actors who might:
-      <ol style="margin: 8px 0 0 0; padding-left: 20px;">
-        <li>Take the code and falsely claim to have made improvements without citing our original work;</li>
-        <li>Inappropriately probe into the progress of our ongoing research;</li>
-      </ol>
-      the code will be released publicly <strong>several months after the associated paper is officially accepted</strong>.
-    </li>
+    <li>The project code has been fully disclosed and is now withdrawn. If you require access, you may support our research through a donation and then contact the author for the code. For specific donation arrangements, please contact my supervisor for further communication.</li>
   </ul>
 </div>
 
